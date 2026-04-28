@@ -1,0 +1,11 @@
+node_modules/
+*.log
+.DS_Store
+
+# Python virtual environment artifacts inside project
+venv/bin/
+venv/include/
+venv/lib/
+venv/backend/.env
+venv/**/__pycache__/
+venv/**/*.pyc
